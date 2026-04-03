@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ppe-talleres.pages.dev)",
+      "Bash(pip --version)",
+      "Bash(python -m venv venv)",
+      "Bash(source venv/Scripts/activate)",
+      "Bash(pip install:*)",
+      "Bash(django-admin startproject:*)",
+      "Bash(python manage.py startapp peliculas)",
+      "Bash(python manage.py tailwind init theme --no-input)",
+      "Bash(python manage.py tailwind init --no-input)",
+      "Bash(python manage.py tailwind init)",
+      "Bash(printf \"theme\\\\n1\\\\n\")",
+      "Bash(python manage.py tailwind install)",
+      "Bash(python manage.py makemigrations)",
+      "Bash(python manage.py migrate)",
+      "Bash(python manage.py tailwind build)",
+      "Bash(python manage.py check)",
+      "Bash(curl:*)",
+      "Bash(python manage.py loaddata peliculas_iniciales)"
+    ]
+  }
+}

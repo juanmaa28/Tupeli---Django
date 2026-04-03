@@ -1,0 +1,142 @@
+[
+  {
+    "model": "peliculas.pelicula",
+    "pk": 1,
+    "fields": {
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "anio": 2010,
+      "genero": "ciencia_ficcion",
+      "sinopsis": "Un ladr\u00f3n que roba secretos corporativos a trav\u00e9s del uso de la tecnolog\u00eda de compartir sue\u00f1os recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "calificacion": "8.8",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 2,
+    "fields": {
+      "titulo": "Interstellar",
+      "director": "Christopher Nolan",
+      "anio": 2014,
+      "genero": "ciencia_ficcion",
+      "sinopsis": "Un equipo de exploradores viaja a trav\u00e9s de un agujero de gusano en el espacio intentando garantizar la supervivencia de la humanidad.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "calificacion": "8.6",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 3,
+    "fields": {
+      "titulo": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "anio": 2008,
+      "genero": "accion",
+      "sinopsis": "Cuando el Joker desata el caos en Gotham City, Batman debe aceptar una de las pruebas psicol\u00f3gicas y f\u00edsicas m\u00e1s grandes de su capacidad para combatir la injusticia.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "calificacion": "9.0",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 4,
+    "fields": {
+      "titulo": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "anio": 1994,
+      "genero": "thriller",
+      "sinopsis": "Las vidas de dos sicarios, un boxeador, la esposa de un ganger y un par de bandidos se entrelazan en cuatro historias de violencia y redenci\u00f3n.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "calificacion": "8.9",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 5,
+    "fields": {
+      "titulo": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "anio": 1994,
+      "genero": "drama",
+      "sinopsis": "Dos hombres presos se unen a lo largo de varios a\u00f1os, encontrando consuelo y eventual redenci\u00f3n a trav\u00e9s de actos de decencia com\u00fan.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+      "calificacion": "9.3",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 6,
+    "fields": {
+      "titulo": "Parasite",
+      "director": "Bong Joon-ho",
+      "anio": 2019,
+      "genero": "thriller",
+      "sinopsis": "La codicia y la discriminaci\u00f3n de clases amenazan la relaci\u00f3n simbi\u00f3tica recientemente formada entre la familia adinerada Park y la completamente empobrecida familia Ki-taek.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "calificacion": "8.5",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 7,
+    "fields": {
+      "titulo": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "anio": 2001,
+      "genero": "animacion",
+      "sinopsis": "Durante la mudanza de su familia a los suburbios, una ni\u00f1a de 10 a\u00f1os se encuentra en un mundo de esp\u00edritus gobernado por una bruja que esclaviza a sus padres transform\u00e1ndolos en cerdos.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "calificacion": "8.6",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 8,
+    "fields": {
+      "titulo": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "anio": 1972,
+      "genero": "drama",
+      "sinopsis": "El envejecido patriarca de una dinast\u00eda del crimen organizado transfiere el control de su imperio clandestino a su renuente hijo.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsLegHQr3zeAs.jpg",
+      "calificacion": "9.2",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 9,
+    "fields": {
+      "titulo": "Dune",
+      "director": "Denis Villeneuve",
+      "anio": 2021,
+      "genero": "ciencia_ficcion",
+      "sinopsis": "Un joven brillante y talentoso nacido con un gran destino m\u00e1s all\u00e1 de su comprensi\u00f3n debe viajar al planeta m\u00e1s peligroso del universo para asegurar el futuro de su familia y su pueblo.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/d5NXSklpcvwE3HP2SmweQg0r5jA.jpg",
+      "calificacion": "8.0",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "peliculas.pelicula",
+    "pk": 10,
+    "fields": {
+      "titulo": "Everything Everywhere All at Once",
+      "director": "Daniel Kwan, Daniel Scheinert",
+      "anio": 2022,
+      "genero": "ciencia_ficcion",
+      "sinopsis": "Una inmigrante china que lucha con su lavander\u00eda y su matrimonio es arrastrada a una aventura extra\u00f1a donde solo ella puede salvar el mundo explorando otros universos.",
+      "imagen_url": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "calificacion": "7.8",
+      "creado_en": "2024-01-01T00:00:00Z"
+    }
+  }
+]
