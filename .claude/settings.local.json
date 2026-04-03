@@ -19,7 +19,8 @@
       "Bash(python manage.py check)",
       "Bash(curl:*)",
       "Bash(python manage.py loaddata peliculas_iniciales)",
-      "Bash(pip freeze:*)"
+      "Bash(pip freeze:*)",
+      "WebFetch(domain:tupeli-django.vercel.app)"
     ]
   }
 }
